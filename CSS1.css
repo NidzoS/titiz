@@ -1,0 +1,83 @@
+p {
+color: blue;
+text-align: center;
+font: italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style:arial ;
+}
+
+h2 {
+color: blueviolet;
+text-align: center;
+font: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: Arial; 
+}
+
+.w {
+color: black;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: arial;
+
+}
+
+h1 {
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: arial;
+
+}
+section, article {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: sans-serif;
+}
+
+ul {
+color: darkcyan;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style:'Arial Narrow';
+
+
+}
+div, span {
+color: deepskyblue;
+font-family:monospace;
+font-style: monospace
+}
+
+a:link, a:visited {
+
+
+text-decoration: none;
+background-color: black;
+border: 1px solid blue;
+color: white;
+display: block;
+width: 200px;
+text-align: center;
+margin-bottom: 5px;
+
+}
+
+a:hover, a:active {
+background-color: white;
+color: black;
+border: 1px solid black;
+}
+
+a:nth-child(3) {
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+font-style: 'Times New Roman';
+
+
+}
+
+div:nth-child(odd) {
+background-color: grey;
+
+
+}
+
+
